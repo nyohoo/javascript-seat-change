@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+html,
+body {
+  font-family: GillSans, Calibri, Trebuchet, Hiragino Kaku Gothic ProN,
+    Hiragino Sans, ヒラギノ角ゴ ProN W3, Arial, メイリオ, Meiryo, sans-serif;
+}
+
+/**
+ * 
+ * ここから下に教材でレクチャーされたCSSを追加
+ *
+ **/
